@@ -14,7 +14,7 @@ We proudly presented FUNPay at **Fintech Saudi 2024**, where it was selected amo
 - Lack of centralized user engagement and reward systems  
 - Difficulty navigating crowded, high-traffic events and attractions
 
-## 🚀 Our Solution – FUNPay Platform
+## Our Solution – FUNPay Platform
 
 - **Digital Wallet & Card**: Consolidated payment and loyalty into a single digital platform  
 - **Crowd Management**: Real-time tracking and control of venue capacity  
@@ -23,13 +23,13 @@ We proudly presented FUNPay at **Fintech Saudi 2024**, where it was selected amo
 - **Event Integration**: Designed to scale with events like Riyadh Season, Qiddiya, and SEVEN
 
 
-## 📊 Market Opportunity
+## Market Opportunity
 
 - Aligns with Saudi Arabia’s revised Vision 2030 goal of attracting **150 million visitors**  
 - Estimated entertainment market size: **SAR 15B** nationally, **SAR 5B** in Riyadh alone  
 - Direct relevance to giga-projects and national tourism initiatives :contentReference[oaicite:0]{index=0}
   
-## 🧠 My Role
+## My Role
 
 As CMO and team co-founder, I led:
 - Strategic positioning of the project  
@@ -39,27 +39,32 @@ As CMO and team co-founder, I led:
 
 I also contributed to product ideation, team coordination, and delivery of the final demo.
 
-## 🛠️ Tools & Methods
+## Tools & Methods
 
 - Figma – PowerPoint – Google Forms  
 - MVP Framework – Lean Startup  
 - Competitive Analysis & Feature Mapping
 
-## 🏆 Outcome
+## Outcome
 
 - 🥇 **Won 1st Place at Fintech24**  
-- 🚀 Validated as a scalable innovation in entertainment-tech  
-- 📍 Recognized by key ecosystem players including Majid Al Futtaim, Riyadh Season, and Safari :contentReference[oaicite:1]{index=1}
+- Validated as a scalable innovation in entertainment-tech  
+- Recognized by key ecosystem players including Majid Al Futtaim, Riyadh Season, and Safari :contentReference[oaicite:1]{index=1}
 
-## 📌 Program Partners
+## Program Partners
 
 -  **Financial Academy**  
 -  **Monsha’at (SME Authority)**  
 -  **Fintech Saudi**
 
-## 🎯 Vision Alignment
+## Vision Alignment
 
 FUNPay contributes directly to:
 - Enhancing visitor experiences in national events  
 - Digitizing entertainment infrastructure  
 - Supporting Saudi Arabia’s transition to a smart, cashless economy under Vision 2030
+  
+  ## Key Learnings
+- Built a fintech startup prototype from scratch in 8 weeks.
+- Collaborated cross-functionally in a fast-paced innovation bootcamp.
+- Translated entertainment-sector challenges into digital, scalable solutions.
