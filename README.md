@@ -1,5 +1,5 @@
 # Award-Winning-EntertainmentTech-Fintech24
-# 🎮 FUNPay – 1st Place Winning Team at Fintech24
+# FUNPay – 1st Place Winning Team at Fintech24
 
 FUNPay is an innovative entertainment-tech solution developed by our team during a 2-month national innovation camp led by the Financial Academy, in partnership with Monsha’at and Fintech Saudi. The program aimed to nurture fintech-driven startup ideas and transform them into viable, scalable digital products.
 
